@@ -1,0 +1,63 @@
+.stack-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.card-rotate {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: grab;
+    perspective: 600px;
+    /* moved perspective here to ensure 3d effect on children if needed, or keep in container */
+}
+
+/* Reverting to user's css structure to be safe */
+.stack-container {
+    perspective: 600px;
+}
+
+.card-rotate {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: grab;
+    /* display: flex;  Ensure it centers content if needed, though 'card' does that */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.card-rotate-disabled {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.card {
+    border-radius: 1rem;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    /* Fallback */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    /* Added shadow for depth */
+}
+
+.card img {
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+.card-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+}

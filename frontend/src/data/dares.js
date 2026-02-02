@@ -1,0 +1,72 @@
+export const dares = [
+    {
+        id: 1,
+        title: "Ice Bucket Logic",
+        subtitle: "3.5k Participants • 2h left",
+        fullTitle: "Ice Bucket Logic Puzzle",
+        tags: ["#Endurance", "#Logic", "#Viral"],
+        timeLimit: 60,
+        stake: 500,
+        reward: 1200,
+        conditions: "Solve 3 logic puzzles while keeping your feet submerged in ice water. Must be recorded in one take without cuts. Heart rate must remain below 120bpm.",
+        user: "@CryptoDareMaster",
+        coverImage: "https://a.lovart.ai/artifacts/user/THS9Jmc1B8FJRQMz.jpeg",
+        avatar: "https://a.lovart.ai/artifacts/user/rCONejiGD7B9jUBD.jpg"
+    },
+    {
+        id: 2,
+        title: "Urban Sprint 5km",
+        subtitle: "1.2k Participants • 5h left",
+        fullTitle: "Urban Sprint Challenge",
+        tags: ["#Fitness", "#Speed", "#Outdoor"],
+        timeLimit: 25,
+        stake: 300,
+        reward: 800,
+        conditions: "Run a 5km distance in under 25 minutes in an urban environment. GPS tracking required. Video proof of start and finish.",
+        user: "@RunFast",
+        coverImage: "https://a.lovart.ai/artifacts/user/THS9Jmc1B8FJRQMz.jpeg",
+        avatar: "https://a.lovart.ai/artifacts/user/rCONejiGD7B9jUBD.jpg"
+    },
+    {
+        id: 3,
+        title: "No Phone 24h",
+        subtitle: "890 Participants • 12h left",
+        fullTitle: "Digital Detox - 24 Hours",
+        tags: ["#MentalHealth", "#Discipline"],
+        timeLimit: 1440,
+        stake: 1000,
+        reward: 2500,
+        conditions: "Do not use your smartphone for 24 continuous hours. Emergency calls allowed on landline only. Screen time screenshot required as proof.",
+        user: "@ZenMaster",
+        coverImage: "https://a.lovart.ai/artifacts/user/THS9Jmc1B8FJRQMz.jpeg",
+        avatar: "https://a.lovart.ai/artifacts/user/rCONejiGD7B9jUBD.jpg"
+    },
+    {
+        id: 4,
+        title: "Public Speech Karaoke",
+        subtitle: "450 Participants • 1d left",
+        fullTitle: "Karaoke in Public",
+        tags: ["#Social", "#Fun", "#Courage"],
+        timeLimit: 5,
+        stake: 200,
+        reward: 600,
+        conditions: "Sing a full song in a crowded public place (park, mall). Must gather an audience of at least 5 strangers.",
+        user: "@SingerPro",
+        coverImage: "https://a.lovart.ai/artifacts/user/THS9Jmc1B8FJRQMz.jpeg",
+        avatar: "https://a.lovart.ai/artifacts/user/rCONejiGD7B9jUBD.jpg"
+    },
+    {
+        id: 5,
+        title: "Spicy Noodle Challenge",
+        subtitle: "2.1k Participants • 3h left",
+        fullTitle: "Inferno Noodle Bowl",
+        tags: ["#Food", "#Spicy", "#Endurance"],
+        timeLimit: 10,
+        stake: 100,
+        reward: 400,
+        conditions: "Finish a bowl of 2x spicy noodles under 10 minutes without drinking water or milk. Continuous video required.",
+        user: "@SpiceKing",
+        coverImage: "https://a.lovart.ai/artifacts/user/THS9Jmc1B8FJRQMz.jpeg",
+        avatar: "https://a.lovart.ai/artifacts/user/rCONejiGD7B9jUBD.jpg"
+    }
+];

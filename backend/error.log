@@ -1,0 +1,559 @@
+2025-12-29T06:34:02.982Z - CreateDare Request Body: {"title":"sdfbnfcvx z ","description":"svadveav","reward":99,"timeframe":"30m","category":"Social"}
+2025-12-29T06:34:02.992Z - User found: mayank, Balance: 1800, Required: 99
+2025-12-29T06:34:03.025Z - Dare created successfully: 695220dbcc28f7cf64ff4e08
+2025-12-29T06:34:42.985Z - CreateDare Request Body: {"title":"addiuaviabvabv","description":"afafdaefa","reward":1000,"timeframe":"30m","category":"Social"}
+2025-12-29T06:34:42.996Z - User found: mayank, Balance: 1701, Required: 1000
+2025-12-29T06:34:43.019Z - Dare created successfully: 69522103cc28f7cf64ff4e29
+2025-12-29T06:39:56.270Z - CreateDare Request Body: {"title":"advasvaS","description":"DVEVDC","reward":1200,"timeframe":"30m","category":"Social"}
+2025-12-29T06:39:56.280Z - User found: mayank, Balance: 1201, Required: 1200
+2025-12-29T06:39:56.313Z - Dare created successfully: 6952223ccc28f7cf64ff4e51
+2025-12-29T06:52:55.326Z - CreateDare Request Body: {"title":"aeffasfvasv","description":"vavavecv","reward":10000,"timeframe":"30m","category":"Social"}
+2025-12-29T06:52:55.337Z - User found: Mohit Javle, Balance: 19800, Required: 10000
+2025-12-29T06:52:55.375Z - Dare created successfully: 69522547cc28f7cf64ff4eba
+2025-12-29T07:51:28.291Z - CreateDare Request Body: {"title":"backflipe","description":"asdas","reward":1000,"timeframe":"30m","category":"Social"}
+2025-12-29T07:51:28.301Z - User found: Mohit Javle, Balance: 9800, Required: 1000
+2025-12-29T07:51:28.333Z - Dare created successfully: 69523300e4d45042b2ae3bd7
+2025-12-29T08:06:09.003Z - CreateDare Request Body: {"title":"sssss","description":"ssssss","reward":1000,"timeframe":"30m","category":"Social"}
+2025-12-29T08:06:09.016Z - User found: Mohit Javle, Balance: 8800, Required: 1000
+2025-12-29T08:06:09.048Z - Dare created successfully: 69523671503b46aa7c77c477
+2025-12-29T08:11:09.853Z - CreateDare Request Body: {"title":"dassad","description":"ddsa","reward":1000,"timeframe":"30m","category":"Social"}
+2025-12-29T08:11:09.863Z - User found: mayank, Balance: 5501, Required: 1000
+2025-12-29T08:11:09.902Z - Dare created successfully: 6952379d62ffb8185f3e748c
+2025-12-29T08:41:24.227Z - CreateDare Request Body: {"title":"a1eqasd","description":"asdasd","reward":100,"timeframe":"24h","category":"Social"}
+2025-12-29T08:41:24.253Z - User found: admin02, Balance: 4501, Required: 100
+2025-12-29T08:41:24.322Z - Dare created successfully: 69523eb4f5707f7bc257f619
+2025-12-29T08:42:17.914Z - CreateDare Request Body: {"title":"lll","description":"sss","reward":100,"timeframe":"24h","category":"Social"}
+2025-12-29T08:42:17.923Z - User found: admin02, Balance: 4401, Required: 100
+2025-12-29T08:42:17.957Z - Dare created successfully: 69523ee9f5707f7bc257f631
+2025-12-29T08:47:06.693Z - CreateDare Request Body: {"title":"sasAS","description":"aA","reward":100,"timeframe":"24h","category":"Social"}
+2025-12-29T08:47:06.702Z - User found: admin02, Balance: 4301, Required: 100
+2025-12-29T08:47:06.746Z - Dare created successfully: 6952400a81b0a97b4fa46324
+2025-12-29T08:49:43.536Z - CreateDare Request Body: {"title":"AaSS","description":"SASDA","reward":1000,"timeframe":"41m","category":"Social"}
+2025-12-29T08:49:43.546Z - User found: Mohit Javle, Balance: 8800, Required: 1000
+2025-12-29T08:49:43.573Z - Dare created successfully: 695240a7e707910ccb05079f
+2025-12-29T08:50:23.672Z - CreateDare Request Body: {"title":"cxzxz","description":"zz","reward":"10000","timeframe":"24h","category":"Social"}
+2025-12-29T08:50:23.681Z - User found: admin02, Balance: 4201, Required: 10000
+2025-12-29T08:50:23.681Z - Insufficient balance. Has: 4201, Needs: 10000
+2025-12-29T08:50:36.040Z - CreateDare Request Body: {"title":"asada","description":"asa","reward":"1001","timeframe":"24h","category":"Social"}
+2025-12-29T08:50:36.049Z - User found: admin02, Balance: 4201, Required: 1001
+2025-12-29T08:50:36.074Z - Dare created successfully: 695240dce707910ccb0507e7
+2025-12-29T08:52:07.147Z - CreateDare Request Body: {"title":"sas","description":"dd","reward":110,"timeframe":"30m","category":"Social"}
+2025-12-29T08:52:07.158Z - User found: Mohit Javle, Balance: 7800, Required: 110
+2025-12-29T08:52:07.205Z - Dare created successfully: 69524137e707910ccb05084c
+2025-12-29T10:34:47.677Z - CreateDare Request Body: {"title":"faefvcascasc","description":"afsfcasc","reward":100,"timeframe":"30m","category":"Social","targetUser":"Mohit Javle"}
+2025-12-29T10:34:47.690Z - User found: tester, Balance: 1000, Required: 100
+2025-12-29T10:34:47.745Z - Dare created successfully: 69525947f6768aeeaedd481f
+2025-12-29T10:34:47.758Z - Notification sent to Mohit Javle
+2025-12-29T10:39:37.493Z - CreateDare Request Body: {"title":"cbgbf","description":"cyhybyb","reward":100,"timeframe":"30m","category":"Social","targetUser":"Mohit Javle"}
+2025-12-29T10:39:37.503Z - User found: tester, Balance: 900, Required: 100
+2025-12-29T10:39:37.540Z - Dare created successfully: 69525a69fdcff6803b81be16
+2025-12-29T10:39:37.552Z - Notification sent to Mohit Javle
+2025-12-29T11:03:14.345Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:03:14.371Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:03:14.374Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:03:14.406Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:04:14.348Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:04:14.366Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:04:14.382Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:04:14.397Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:05:14.352Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:05:14.366Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:05:14.375Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:05:14.388Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:06:14.355Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:06:14.368Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:06:14.379Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:06:14.390Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:06:27.053Z - CreateDare Request Body: {"title":"vsadv","description":"sfdgsfbs","reward":1000,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T11:06:27.062Z - User found: Mohit Javle, Balance: 17190, Required: 1000
+2025-12-29T11:06:27.085Z - Dare created successfully: 695260b3c2a5280be1e5ee88
+2025-12-29T11:07:14.360Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:07:14.372Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:07:14.400Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:07:14.400Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:08:14.365Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:08:14.373Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:08:14.407Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:08:14.403Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:09:14.358Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:09:14.379Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:09:14.381Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:09:14.410Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:10:14.379Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:10:14.381Z - Dare 695240a7e707910ccb05079f expired. Cleaning up...
+2025-12-29T11:10:14.399Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:10:14.399Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:13:13.950Z - CreateDare Request Body: {"title":"ghryfhndfb","description":"acadcac","reward":100,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T11:13:13.960Z - User found: tester, Balance: 1220, Required: 100
+2025-12-29T11:13:13.991Z - Dare created successfully: 695262491ddd3feec6cc37f1
+2025-12-29T11:14:26.292Z - Dare 695262491ddd3feec6cc37f1 expired. Cleaning up...
+2025-12-29T11:14:26.309Z - Dare 695262491ddd3feec6cc37f1 expired. Cleaning up...
+2025-12-29T11:14:26.324Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:14:26.337Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:15:26.295Z - Dare 695262491ddd3feec6cc37f1 expired. Cleaning up...
+2025-12-29T11:15:26.312Z - Dare 695262491ddd3feec6cc37f1 expired. Cleaning up...
+2025-12-29T11:15:26.322Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:15:26.337Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:16:26.302Z - Dare 695262491ddd3feec6cc37f1 expired. Cleaning up...
+2025-12-29T11:16:26.318Z - Dare 695262491ddd3feec6cc37f1 expired. Cleaning up...
+2025-12-29T11:16:26.346Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:16:26.352Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:21:36.143Z - CreateDare Request Body: {"title":"jggbgb","description":"fghdgng","reward":10000,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T11:21:36.154Z - User found: Mohit Javle, Balance: 23290, Required: 10000
+2025-12-29T11:21:36.174Z - CreateDare Exception: next is not a function
+TypeError: next is not a function
+    at model.<anonymous> (D:\backup-28\backend\models\Dare.js:83:5)
+    at Kareem.execPre (D:\backup-28\backend\node_modules\kareem\index.js:63:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async model.$__save (D:\backup-28\backend\node_modules\mongoose\lib\model.js:369:5)
+    at async model.save (D:\backup-28\backend\node_modules\mongoose\lib\model.js:609:5)
+    at async D:\backup-28\backend\node_modules\mongoose\lib\model.js:2722:9
+    at async Promise.all (index 0)
+    at async model.create (D:\backup-28\backend\node_modules\mongoose\lib\model.js:2707:11)
+    at async exports.createDare (D:\backup-28\backend\controllers\dareController.js:74:22)
+2025-12-29T11:21:55.819Z - CreateDare Request Body: {"title":"fegaedvadv","description":"vsdvdsvv","reward":10000,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T11:21:55.831Z - User found: Mohit Javle, Balance: 13290, Required: 10000
+2025-12-29T11:21:55.844Z - CreateDare Exception: next is not a function
+TypeError: next is not a function
+    at model.<anonymous> (D:\backup-28\backend\models\Dare.js:83:5)
+    at Kareem.execPre (D:\backup-28\backend\node_modules\kareem\index.js:63:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async model.$__save (D:\backup-28\backend\node_modules\mongoose\lib\model.js:369:5)
+    at async model.save (D:\backup-28\backend\node_modules\mongoose\lib\model.js:609:5)
+    at async D:\backup-28\backend\node_modules\mongoose\lib\model.js:2722:9
+    at async Promise.all (index 0)
+    at async model.create (D:\backup-28\backend\node_modules\mongoose\lib\model.js:2707:11)
+    at async exports.createDare (D:\backup-28\backend\controllers\dareController.js:74:22)
+2025-12-29T11:22:34.165Z - CreateDare Request Body: {"title":"adcvadvca","description":"cac","reward":100,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T11:22:34.175Z - User found: tester, Balance: 1520, Required: 100
+2025-12-29T11:22:34.198Z - CreateDare Exception: next is not a function
+TypeError: next is not a function
+    at model.<anonymous> (D:\backup-28\backend\models\Dare.js:83:5)
+    at Kareem.execPre (D:\backup-28\backend\node_modules\kareem\index.js:63:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async model.$__save (D:\backup-28\backend\node_modules\mongoose\lib\model.js:369:5)
+    at async model.save (D:\backup-28\backend\node_modules\mongoose\lib\model.js:609:5)
+    at async D:\backup-28\backend\node_modules\mongoose\lib\model.js:2722:9
+    at async Promise.all (index 0)
+    at async model.create (D:\backup-28\backend\node_modules\mongoose\lib\model.js:2707:11)
+    at async exports.createDare (D:\backup-28\backend\controllers\dareController.js:74:22)
+2025-12-29T11:23:57.373Z - CreateDare Request Body: {"title":"dgndgn","description":"sfdvsd","reward":10000,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T11:23:57.383Z - User found: Mohit Javle, Balance: 3290, Required: 10000
+2025-12-29T11:23:57.384Z - Insufficient balance. Has: 3290, Needs: 10000
+2025-12-29T11:24:23.176Z - CreateDare Request Body: {"title":"acfavavavv","description":"sfbsbs","reward":1500,"timeframe":"0m","category":"Social","targetUser":""}
+2025-12-29T11:24:23.187Z - User found: Mohit Javle, Balance: 3290, Required: 1500
+2025-12-29T11:24:23.219Z - Dare created successfully: 695264e7a2055f6b070ec240, Expires: 2025-12-29T11:24:23.206Z
+2025-12-29T11:24:36.786Z - Dare 695264e7a2055f6b070ec240 expired. Cleaning up...
+2025-12-29T11:24:36.799Z - Dare 695264e7a2055f6b070ec240 expired. Cleaning up...
+2025-12-29T11:24:36.807Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T11:24:36.833Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T16:37:44.788Z - Cleanup Error: Operation `dares.find()` buffering timed out after 10000ms
+2025-12-29T16:38:44.803Z - Cleanup Error: Operation `dares.find()` buffering timed out after 10000ms
+2025-12-29T16:39:44.803Z - Cleanup Error: Operation `dares.find()` buffering timed out after 10000ms
+2025-12-29T16:41:20.857Z - Cleanup Error: Operation `dares.find()` buffering timed out after 10000ms
+2025-12-29T16:42:20.858Z - Cleanup Error: Operation `dares.find()` buffering timed out after 10000ms
+2025-12-29T16:47:39.937Z - Dare 6952b03b24252e7a37b53b92 expired. Cleaning up...
+2025-12-29T16:47:40.063Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T16:47:41.878Z - CreateDare Request Body: {"title":"sbgbtbr","description":"vsvvsv","reward":1000,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-29T16:47:41.927Z - User found: Mohit Javle, Balance: 4790, Required: 1000
+2025-12-29T16:47:42.031Z - Dare created successfully: 6952b0add0ed8b7aea648da2, Expires: 2025-12-29T17:17:41.973Z
+2025-12-29T16:48:39.945Z - Dare 6952b03b24252e7a37b53b92 expired. Cleaning up...
+2025-12-29T16:48:40.040Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T16:49:39.979Z - Dare 6952b03b24252e7a37b53b92 expired. Cleaning up...
+2025-12-29T16:49:40.103Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T16:50:39.976Z - Dare 6952b03b24252e7a37b53b92 expired. Cleaning up...
+2025-12-29T16:50:40.076Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T16:51:40.083Z - Dare 6952b03b24252e7a37b53b92 expired. Cleaning up...
+2025-12-29T16:51:40.461Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T17:02:58.801Z - CreateDare Request Body: {"title":"Sing a Funny Song","description":"in mic or publically","reward":1000,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T17:02:58.839Z - User found: Mohit Javle, Balance: 3790, Required: 1000
+2025-12-29T17:02:58.944Z - Dare created successfully: 6952b442d0ed8b7aea649021, Expires: 2025-12-29T17:03:58.907Z
+2025-12-29T17:04:40.104Z - Dare 6952b442d0ed8b7aea649021 expired. Cleaning up...
+2025-12-29T17:04:40.198Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T17:13:20.698Z - CreateDare Request Body: {"title":"abcd","description":"efgh","reward":1000,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T17:13:20.743Z - User found: Mohit Javle, Balance: 3790, Required: 1000
+2025-12-29T17:13:20.859Z - Dare created successfully: 6952b6b0de377c1e8c18b0b4, Expires: 2025-12-29T17:14:20.809Z
+2025-12-29T17:38:47.919Z - CreateDare Request Body: {"title":"adcadva","description":"fgsfbwrbsv","reward":1235,"timeframe":"1m","category":"Social","targetUser":""}
+2025-12-29T17:38:47.957Z - User found: tester, Balance: 6920, Required: 1235
+2025-12-29T17:38:48.064Z - Dare created successfully: 6952bca8ae9aa9044641f554, Expires: 2025-12-29T17:39:48.012Z
+2025-12-29T17:59:31.213Z - CreateDare Request Body: {"title":"vs bsf vs","description":"vsvbsdvdv","reward":1110,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-29T17:59:31.265Z - User found: Mohit Javle, Balance: 4025, Required: 1110
+2025-12-29T17:59:31.453Z - Dare created successfully: 6952c183634266495a8523db, Expires: 2025-12-29T18:29:31.387Z
+2025-12-29T18:05:00.180Z - CreateDare Request Body: {"title":"vsvdvv","description":"gfsadgdv","reward":1221,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-29T18:05:00.228Z - User found: Mohit Javle, Balance: 2915, Required: 1221
+2025-12-29T18:05:00.329Z - Dare created successfully: 6952c2cc634266495a852503, Expires: 2025-12-29T18:35:00.280Z
+2025-12-29T18:18:30.107Z - CreateDare Request Body: {"title":"gooner","description":"bdfbdbd","reward":1000,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-29T18:18:30.147Z - User found: Mohit Javle, Balance: 1694, Required: 1000
+2025-12-29T18:18:30.239Z - Dare created successfully: 6952c5f6634266495a852641, Expires: 2025-12-29T18:48:30.201Z
+2025-12-29T18:19:40.726Z - CreateDare Request Body: {"title":"dbefv","description":"gfbs","reward":5000,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-29T18:19:40.765Z - User found: tester, Balance: 8016, Required: 5000
+2025-12-29T18:19:40.846Z - Dare created successfully: 6952c63c634266495a852726, Expires: 2025-12-29T18:49:40.806Z
+2025-12-29T18:48:54.826Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:48:54.911Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:51:18.077Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:51:18.162Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:52:18.076Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:52:18.182Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:53:18.072Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:53:18.168Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:54:18.077Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:54:18.166Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:55:18.084Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:55:18.199Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:56:18.101Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:56:18.188Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:57:18.109Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:57:18.243Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:58:18.112Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:58:18.215Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T18:59:18.122Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T18:59:18.215Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:00:18.144Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:00:18.236Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:01:18.219Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:01:18.317Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:02:18.164Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:02:18.251Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:03:18.181Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:03:18.278Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:08:25.956Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:08:25.963Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:08:26.057Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:08:26.095Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:09:25.932Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:09:25.942Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:09:26.017Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:09:26.029Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:10:25.936Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:10:25.947Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:10:26.035Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:10:26.047Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:11:25.935Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:11:25.944Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:11:26.032Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:11:26.036Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:12:25.935Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:12:25.939Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:12:26.027Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:12:26.027Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:13:25.949Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:13:25.954Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:13:26.040Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:13:26.051Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:14:25.970Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:14:25.972Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:14:26.048Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:14:26.052Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:15:26.010Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:15:26.010Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:15:26.117Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:15:26.117Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:16:25.979Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:16:25.987Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:16:26.059Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:16:26.088Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:17:25.977Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:17:25.979Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:17:26.056Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:17:26.069Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:18:26.007Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:18:26.014Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:18:26.088Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:18:26.097Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:19:25.996Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:19:25.997Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:19:26.076Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:19:26.148Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:20:26.004Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:20:26.008Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:20:26.095Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:20:26.108Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:21:26.024Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:21:26.035Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:21:26.103Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:21:26.109Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:22:26.056Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:22:26.056Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:22:26.174Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:22:26.175Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:23:26.020Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:23:26.030Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:23:26.102Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:23:26.107Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:24:26.037Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:24:26.041Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:24:26.123Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:24:26.132Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:25:26.063Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:25:26.063Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:25:26.154Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:25:26.154Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:26:26.091Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:26:26.094Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:26:26.184Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:26:26.184Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:27:26.080Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:27:26.086Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:27:26.173Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:27:26.179Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:28:26.082Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:28:26.087Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:28:26.169Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:28:26.175Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:29:26.087Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:29:26.091Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:29:26.168Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:29:26.179Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:30:26.098Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:30:26.110Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:30:26.194Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:30:26.203Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:31:26.087Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:31:26.088Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:31:26.184Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:31:26.183Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:32:26.093Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:32:26.093Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:32:26.176Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:32:26.178Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:33:26.118Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:33:26.120Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:33:26.258Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:33:26.266Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:34:26.113Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:34:26.120Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:34:26.193Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:34:26.196Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:35:26.124Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:35:26.129Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:35:26.205Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:35:26.216Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:36:26.162Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:36:26.162Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:36:26.258Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:36:26.268Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:37:26.154Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:37:26.159Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:37:26.244Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:37:26.248Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:38:26.192Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:38:26.198Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:38:26.285Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:38:26.292Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:39:26.192Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:39:26.201Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:39:26.288Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:39:26.293Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:40:26.198Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:40:26.200Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:40:26.335Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:40:26.374Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:41:26.194Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:41:26.194Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:41:26.284Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:41:26.288Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:42:26.200Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:42:26.200Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:42:26.280Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:42:26.284Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:43:26.197Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:43:26.202Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:43:26.289Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:43:26.301Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:44:26.196Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:44:26.200Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:44:26.277Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:44:26.279Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:45:26.206Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:45:26.213Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:45:26.288Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:45:26.298Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:46:26.206Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:46:26.211Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:46:26.298Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:46:26.306Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:47:26.225Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:47:26.229Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:47:26.333Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:47:26.337Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:48:26.224Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:48:26.226Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:48:26.305Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:48:26.315Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:49:26.255Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:49:26.259Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:49:26.335Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:49:26.338Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:50:26.250Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:50:26.252Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:50:26.352Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:50:26.354Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:51:26.308Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:51:26.307Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:51:26.405Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:51:26.404Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:52:26.250Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:52:26.256Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:52:26.332Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:52:26.336Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:53:26.262Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:53:26.265Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-29T19:53:26.353Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-29T19:53:26.364Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:00:18.012Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:00:18.073Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:01:37.438Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:01:37.683Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:02:18.020Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:02:18.054Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:03:18.064Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:03:18.238Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:04:18.126Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:04:18.241Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:05:18.045Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:05:18.157Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:06:18.079Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:06:18.157Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:07:18.064Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:07:18.245Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:08:18.093Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:08:18.391Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:09:18.076Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:09:18.111Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:10:18.092Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:10:18.164Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:11:18.123Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:11:18.243Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:12:18.186Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:12:18.296Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:13:18.221Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:13:18.369Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:14:18.110Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:14:18.139Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:15:18.165Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:15:18.343Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:16:18.148Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:16:18.247Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:17:18.156Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:17:18.353Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:18:18.195Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:18:18.347Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:19:18.153Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:19:18.178Z - Cleanup Error: Transaction validation failed: type: `refund` is not a valid enum value for path `type`.
+2025-12-30T05:21:29.199Z - Dare 6952c5f6634266495a852641 expired. Cleaning up...
+2025-12-30T05:21:29.274Z - Cleanup: Successfully processed 1 expired dares.
+2025-12-30T06:08:21.385Z - CreateDare Request Body: {"title":"do belly dance ","description":"Public dance ","reward":1000,"timeframe":"15m","category":"Social","targetUser":""}
+2025-12-30T06:08:21.397Z - User found: tester, Balance: 3016, Required: 1000
+2025-12-30T06:08:21.436Z - Dare created successfully: 69536c5579a08340b60297d7, Expires: 2025-12-30T06:23:21.423Z
+2025-12-30T06:18:21.532Z - CreateDare Request Body: {"title":"Nago naach ","description":"Chaddi par ","reward":300,"timeframe":"10m","category":"Social","targetUser":"Mohit Javle"}
+2025-12-30T06:18:21.556Z - User found: sem boi, Balance: 1000, Required: 300
+2025-12-30T06:18:21.628Z - Dare created successfully: 69536ead79a08340b6029b34, Expires: 2025-12-30T06:28:21.602Z
+2025-12-30T06:18:21.654Z - Notification sent to Mohit Javle
+2025-12-30T06:45:14.158Z - CreateDare Request Body: {"title":"do dance ","description":"publically","reward":1001,"timeframe":"15m","category":"Social","targetUser":"sem boi"}
+2025-12-30T06:45:14.169Z - User found: Mohit Javle, Balance: 93694, Required: 1001
+2025-12-30T06:45:14.203Z - Dare created successfully: 695374faec4e04720cb5680b, Expires: 2025-12-30T07:00:14.190Z
+2025-12-30T06:45:14.214Z - Notification sent to sem boi
+2025-12-30T06:47:25.708Z - CreateDare Request Body: {"title":"dgsrgs","description":"vgasdgsdv","reward":1001,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-30T06:47:25.722Z - User found: Mohit Javle, Balance: 92693, Required: 1001
+2025-12-30T06:47:25.745Z - Dare created successfully: 6953757dec4e04720cb56894, Expires: 2025-12-30T07:17:25.734Z
+2025-12-30T07:01:00.781Z - Dare 695374faec4e04720cb5680b expired. Cleaning up...
+2025-12-30T07:01:00.839Z - Cleanup: Successfully processed 1 expired dares.
+2025-12-30T07:12:29.960Z - CreateDare Request Body: {"title":"fsgbdaba","description":"sfbsdbsb","reward":1000,"timeframe":"1m","category":"Social","targetUser":"sem boi"}
+2025-12-30T07:12:29.970Z - User found: Mohit Javle, Balance: 92693, Required: 1000
+2025-12-30T07:12:30.007Z - Dare created successfully: 69537b5dd715c69a24a3f6b2, Expires: 2025-12-30T07:13:29.993Z
+2025-12-30T07:12:30.019Z - Notification sent to sem boi
+2025-12-30T07:13:51.374Z - Dare 69537b5dd715c69a24a3f6b2 expired. Cleaning up...
+2025-12-30T07:13:51.428Z - Cleanup: Successfully processed 1 expired dares.
+2025-12-30T07:24:04.535Z - CreateDare Request Body: {"title":"fgqefva","description":"afafafva","reward":10000,"timeframe":"30m","category":"Social","targetUser":"tester"}
+2025-12-30T07:24:04.549Z - User found: Mohit Javle, Balance: 92693, Required: 10000
+2025-12-30T07:24:04.585Z - Dare created successfully: 69537e14d715c69a24a3f784, Expires: 2025-12-30T07:54:04.574Z
+2025-12-30T07:24:04.597Z - Notification sent to tester
+2025-12-30T07:32:48.767Z - CreateDare Request Body: {"title":"hrhrhfd","description":"svsdvdsv","reward":1000,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-30T07:32:48.785Z - User found: Mohit Javle, Balance: 82693, Required: 1000
+2025-12-30T07:32:48.818Z - Dare created successfully: 69538020d715c69a24a3f8d3, Expires: 2025-12-30T08:02:48.807Z
+2025-12-30T08:02:51.778Z - Dare 69538020d715c69a24a3f8d3 expired. Cleaning up...
+2025-12-30T08:02:51.844Z - Cleanup: Successfully processed 1 expired dares.
+2025-12-30T08:20:25.855Z - CreateDare Request Body: {"title":"do push up ","description":"publically","reward":1000,"timeframe":"15m","category":"Social","targetUser":"tester"}
+2025-12-30T08:20:25.864Z - User found: Mohit Javle, Balance: 82693, Required: 1000
+2025-12-30T08:20:25.925Z - Dare created successfully: 69538b49d715c69a24a40055, Expires: 2025-12-30T08:35:25.912Z
+2025-12-30T08:20:25.937Z - Notification sent to tester
+2025-12-30T14:07:11.269Z - Dare 69538b49d715c69a24a40055 expired. Cleaning up...
+2025-12-30T14:07:11.577Z - Cleanup: Successfully processed 1 expired dares.
+2025-12-30T14:10:59.569Z - CreateDare Request Body: {"title":"do what ever you can ","description":"fvsfbwbsb","reward":50000,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-30T14:10:59.613Z - User found: Mohit Javle, Balance: 82693, Required: 50000
+2025-12-30T14:10:59.711Z - Dare created successfully: 6953dd7386277bb8e3cdb675, Expires: 2025-12-30T14:40:59.666Z
+2025-12-30T14:45:23.265Z - CreateDare Request Body: {"title":"System Dare 1","description":"Test Dare","reward":100,"timeframe":"24h","category":"Social"}
+2025-12-30T14:45:23.307Z - User found: admin02, Balance: 3210, Required: 100
+2025-12-30T14:45:23.452Z - Dare created successfully: 6953e583e1ff833903228ebb, Expires: 2025-12-31T14:45:23.404Z
+2025-12-30T14:47:17.032Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2025-12-30T14:47:57.804Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2025-12-30T14:48:57.817Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2025-12-30T14:56:31.097Z - CreateDare Request Body: {"title":"fvwev","description":"vwqvwvwv","reward":100,"timeframe":"24h","category":"Social"}
+2025-12-30T14:56:31.148Z - User found: admin02, Balance: 3110, Required: 100
+2025-12-30T14:56:31.255Z - Dare created successfully: 6953e81fe1ff833903228ff5, Expires: 2025-12-31T14:56:31.205Z
+2025-12-30T15:27:47.080Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2025-12-31T04:58:18.889Z - CreateDare Request Body: {"title":"Do a Belly Dance","description":"adfadfvav","reward":1000,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-31T04:58:18.916Z - User found: Mohit Javle, Balance: 32993, Required: 1000
+2025-12-31T04:58:18.967Z - Dare created successfully: 6954ad6a4296a8bb496f8923, Expires: 2025-12-31T05:28:18.941Z
+2025-12-31T05:12:48.306Z - CreateDare Request Body: {"title":"daru pila","description":"nanu wertyuio","reward":5000,"timeframe":"10m","category":"Social","targetUser":"sem boi"}
+2025-12-31T05:12:48.362Z - User found: nanu, Balance: 12500, Required: 5000
+2025-12-31T05:12:48.546Z - Dare created successfully: 6954b0d04296a8bb496f8cce, Expires: 2025-12-31T05:22:48.527Z
+2025-12-31T05:12:48.565Z - Notification sent to sem boi
+2025-12-31T05:30:39.165Z - CreateDare Request Body: {"title":"tgergsrg","description":"fvsfbgrb","reward":1000,"timeframe":"30m","category":"Social","targetUser":"nanu"}
+2025-12-31T05:30:39.185Z - User found: sem boi, Balance: 56801, Required: 1000
+2025-12-31T05:30:39.235Z - Dare created successfully: 6954b4ff0852ca8b1197649f, Expires: 2025-12-31T06:00:39.218Z
+2025-12-31T05:30:39.255Z - Notification sent to nanu
+2025-12-31T05:31:18.618Z - CreateDare Request Body: {"title":"bsbvsfb","description":"bsbfbsbdfvf","reward":1000,"timeframe":"30m","category":"Social","targetUser":""}
+2025-12-31T05:31:18.628Z - User found: nanu, Balance: 7500, Required: 1000
+2025-12-31T05:31:18.681Z - Dare created successfully: 6954b5260852ca8b1197656c, Expires: 2025-12-31T06:01:18.662Z
+2025-12-31T06:04:20.256Z - Dare 6954b4ff0852ca8b1197649f expired. Cleaning up...
+2025-12-31T06:04:20.652Z - Dare 6954b5260852ca8b1197656c expired. Cleaning up...
+2025-12-31T06:04:20.934Z - Cleanup: Successfully processed 2 expired dares.
+2025-12-31T06:30:26.447Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-00.chdzvdb.mongodb.net
+2025-12-31T06:30:26.447Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-00.chdzvdb.mongodb.net
+2025-12-31T06:32:26.461Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-00.chdzvdb.mongodb.net
+2025-12-31T06:32:26.461Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-00.chdzvdb.mongodb.net
+2025-12-31T06:34:26.471Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-00.chdzvdb.mongodb.net
+2025-12-31T06:34:26.471Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-00.chdzvdb.mongodb.net
+2026-01-01T09:27:23.220Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2026-01-01T09:28:23.212Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2026-01-01T09:29:23.231Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2026-01-01T09:30:23.249Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2026-01-01T09:31:35.667Z - Cleanup Error: getaddrinfo ENOTFOUND ac-bkwclft-shard-00-02.chdzvdb.mongodb.net
+2026-01-01T09:31:59.569Z - Dare 69562f0844794924c4a23f61 expired. Cleaning up...
+2026-01-01T09:31:59.662Z - Cleanup: Successfully processed 1 expired dares.
+2026-01-02T05:53:34.977Z - Dare 69560ba71bbdcd309f9e27cb expired. Cleaning up...
+2026-01-02T05:53:35.065Z - Cleanup: Successfully processed 1 expired dares.
+2026-01-02T06:07:13.084Z - CreateDare Request Body: {"title":"Let the other players go through your phone for one minute.","description":"Hand over your phone to the group for one full minute—no locking it, no guiding them, no excuses. They’re free to scroll through your gallery, messages, apps, or search history (but no deleting or posting anything). Sit back, stay calm, and accept whatever reactions come your way. 😈📱","reward":"250","timeframe":"24h","category":"Social"}
+2026-01-02T06:07:13.095Z - User found: admin02, Balance: 3110, Required: 250
+2026-01-02T06:07:13.205Z - Dare created successfully: 6957609153a43c2badf6d7fd, Expires: 2026-01-03T06:07:13.162Z
+2026-01-02T06:08:12.915Z - CreateDare Request Body: {"title":"Eat a bite of a banana peel.","description":"Take a small bite of a banana peel—yes, the peel, not the fruit 😬🍌. Chew it properly and swallow it without making faces or spitting it out. No sauces, no hiding it with food, no drama.","reward":"150","timeframe":"24h","category":"Funny"}
+2026-01-02T06:08:12.926Z - User found: admin02, Balance: 2860, Required: 150
+2026-01-02T06:08:12.954Z - Dare created successfully: 695760cc53a43c2badf6d835, Expires: 2026-01-03T06:08:12.939Z
+2026-01-02T06:09:22.440Z - CreateDare Request Body: {"title":"Show us your best dance moves.","description":"It’s your moment to steal the spotlight! 💃🕺 Step into the center and show off your best dance moves for at least 30–60 seconds. No overthinking—freestyle, swag, filmy, hip-hop, anything goes.","reward":"300","timeframe":"24h","category":"Physical"}
+2026-01-02T06:09:22.451Z - User found: admin02, Balance: 2710, Required: 300
+2026-01-02T06:09:22.501Z - Dare created successfully: 6957611253a43c2badf6d859, Expires: 2026-01-03T06:09:22.480Z
+2026-01-02T06:10:34.718Z - CreateDare Request Body: {"title":"Eat a packet of hot sauce straight.","description":"Open a full packet of hot sauce and eat it straight—no food, no water, no backing out. Feel the heat build with every second as your taste buds go into full panic mode. 🌶️🔥","reward":"400","timeframe":"24h","category":"Funny"}
+2026-01-02T06:10:34.729Z - User found: admin02, Balance: 2410, Required: 400
+2026-01-02T06:10:34.812Z - Dare created successfully: 6957615a53a43c2badf6d875, Expires: 2026-01-03T06:10:34.774Z
+2026-01-02T06:11:47.216Z - CreateDare Request Body: {"title":"Wall Sit Challenge","description":"Stand with your back against a wall and slide down until your knees are at a 90° angle, like you’re sitting on an invisible chair. Hold this position for 60 seconds without standing up or moving your feet. Legs shaking? That’s the point. 💪","reward":"300","timeframe":"24h","category":"Physical"}
+2026-01-02T06:11:47.230Z - User found: admin02, Balance: 2010, Required: 300
+2026-01-02T06:11:47.270Z - Dare created successfully: 695761a353a43c2badf6d87e, Expires: 2026-01-03T06:11:47.255Z
+2026-01-02T06:12:44.559Z - CreateDare Request Body: {"title":"Mirror Talk Show","description":"Stand in front of a mirror and interview yourself like a celebrity for 1 minute. Ask dramatic questions and answer them seriously, like you’re on a TV show. Bonus points for fake accents. 🎤","reward":"250","timeframe":"24h","category":"Funny"}
+2026-01-02T06:12:44.571Z - User found: admin02, Balance: 1710, Required: 250
+2026-01-02T06:12:44.601Z - Dare created successfully: 695761dc53a43c2badf6d8a2, Expires: 2026-01-03T06:12:44.585Z
+2026-01-02T06:53:08.099Z - CreateDare Request Body: {"title":"Accent Attack","description":"Talk in a random accent chosen by the group for the next 1 minute.","reward":500,"timeframe":"30m","category":"Social","targetUser":""}
+2026-01-02T06:53:08.169Z - User found: Mohit Javle, Balance: 34893, Required: 500
+2026-01-02T06:53:08.295Z - Dare created successfully: 69576b542b28d5b5f66785d5, Expires: 2026-01-02T07:23:08.235Z
+2026-01-02T06:54:06.632Z - CreateDare Request Body: {"title":"Gallery Roulette","description":"Open your gallery and show the 5th photo to everyone. No skipping.","reward":400,"timeframe":"100m","category":"Social","targetUser":""}
+2026-01-02T06:54:06.657Z - User found: Mohit Javle, Balance: 34393, Required: 400
+2026-01-02T06:54:06.700Z - Dare created successfully: 69576b8e2b28d5b5f66785f6, Expires: 2026-01-02T08:34:06.684Z
+2026-01-02T06:54:59.289Z - CreateDare Request Body: {"title":"Tongue Twister Boss Fight","description":"Say a hard tongue twister 3 times fast. Mess up? Start again louder.","reward":500,"timeframe":"60m","category":"Social","targetUser":""}
+2026-01-02T06:54:59.321Z - User found: Mohit Javle, Balance: 33993, Required: 500
+2026-01-02T06:54:59.397Z - Dare created successfully: 69576bc32b28d5b5f6678629, Expires: 2026-01-02T07:54:59.343Z
+2026-01-02T07:23:00.727Z - CreateDare Request Body: {"title":"masnna","description":"adsfdf","reward":500,"timeframe":"60m","category":"Social","targetUser":"Mohit Javle"}
+2026-01-02T07:23:00.739Z - User found: mayank, Balance: 1000, Required: 500
+2026-01-02T07:23:00.822Z - Dare created successfully: 695772542b28d5b5f6678e65, Expires: 2026-01-02T08:23:00.809Z
+2026-01-02T07:23:00.836Z - Notification sent to Mohit Javle
+2026-01-02T07:23:57.109Z - Dare 69576b542b28d5b5f66785d5 expired. Cleaning up...
+2026-01-02T07:23:57.176Z - Cleanup: Successfully processed 1 expired dares.
